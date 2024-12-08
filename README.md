@@ -1,5 +1,31 @@
 ## Interview questions for PHP, Laravel & MySQL
 
+### Table of Contents
+
+#### 1. [Interview Questions for PHP](#interview-questions-for-php)
+   - [Method Overriding and Overloading](#method-overriding-and-overloading)
+   - [PEAR and Variables in PHP](#pear-and-variables-in-php)
+   - [Constants and Case Sensitivity](#constants-and-case-sensitivity)
+   - [Data Types and Arrays](#data-types-and-arrays)
+   - [Functions and Features](#functions-and-features)
+   - [Object-Oriented Programming](#object-oriented-programming)
+   - [Sessions, Cookies, and Headers](#sessions-cookies-and-headers)
+   - [Miscellaneous](#miscellaneous)
+
+#### 2. [Interview Questions for MySQL](#interview-questions-for-mysql)
+   - [Basics and Commands](#basics-and-commands)
+   - [Data Types and Storage](#data-types-and-storage)
+   - [Joins, Keys, and Indexing](#joins-keys-and-indexing)
+   - [Advanced Features](#advanced-features)
+
+#### 3. [Interview Questions for Laravel](#interview-questions-for-laravel)
+   - [Core Concepts](#core-concepts)
+   - [Eloquent and Relationships](#eloquent-and-relationships)
+   - [Middleware and Requests](#middleware-and-requests)
+   - [Service Providers and Events](#service-providers-and-events)
+   - [Localization and Advanced Features](#localization-and-advanced-features)
+
+
 ________________________________________________________________
 ### Interview Questions for PHP: 
 #### **: What is method overriding in PHP ?
